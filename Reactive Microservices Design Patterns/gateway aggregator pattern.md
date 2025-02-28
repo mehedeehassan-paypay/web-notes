@@ -23,3 +23,15 @@ java -jar external-service.jar server.port=7000
 ``
 
 <img width="1325" alt="image" src="https://github.com/user-attachments/assets/c9d1f7aa-e168-443c-85f0-1d432ee43683" />
+
+
+## what we are doing
+
+<img width="1226" alt="image" src="https://github.com/user-attachments/assets/f7ffe5e4-614d-42b0-b3a7-4afba1ea4b08" />
+
+
+
+
+
+
+https://github.com/vinsguru/webflux-patterns
