@@ -1,0 +1,2 @@
+# Gateway Aggregator Pattern
+
