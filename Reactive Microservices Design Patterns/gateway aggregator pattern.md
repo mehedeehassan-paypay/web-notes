@@ -1,4 +1,14 @@
 # Gateway Aggregator Pattern
+https://github.com/mehedeehassan-paypay/web-flux-pattern
+
+# HOW TO RUN
+```
+java -jar web-flux-pattern/external-service/external-service-v2.jar --server.port=7070
+
+SET PROJECT JDK 21
+RUN MAVEN APP
+./mvnw spring-boot:run
+```
 
 ## PROBLEM
 - limitation of parallel call
