@@ -12,3 +12,8 @@ BINARY - rsocket less process
 ## PROBLEM 4
 BLOCKING 
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/1ab97873-32eb-487c-ae4d-904132ef16bb" />
+
+
+## COMAPRE WITH FLUX
+
+<img width="1067" alt="image" src="https://github.com/user-attachments/assets/f2e5f488-cddf-43a9-bedb-05ea609a6ff7" />
