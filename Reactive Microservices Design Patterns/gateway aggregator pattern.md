@@ -32,6 +32,12 @@ java -jar external-service.jar server.port=7000
 
 
 
+### CALL AGGREGATOR 
+```
+http://localhost:7070/swagger-ui/#/sec01-gateway-aggregator/getProductUsingGET
+http://localhost:8080/sec01/product/2
+```
+<img width="974" alt="image" src="https://github.com/user-attachments/assets/8aa90232-70a0-4b05-a730-8c059c506db2" />
 
 
 https://github.com/vinsguru/webflux-patterns
